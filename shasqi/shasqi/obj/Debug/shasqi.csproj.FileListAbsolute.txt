@@ -1,0 +1,9 @@
+c:\users\p102\documents\visual studio 2017\Projects\shasqi\shasqi\bin\Debug\shasqi.exe.config
+c:\users\p102\documents\visual studio 2017\Projects\shasqi\shasqi\bin\Debug\shasqi.exe
+c:\users\p102\documents\visual studio 2017\Projects\shasqi\shasqi\bin\Debug\shasqi.pdb
+c:\users\p102\documents\visual studio 2017\Projects\shasqi\shasqi\obj\Debug\shasqi.csprojResolveAssemblyReference.cache
+c:\users\p102\documents\visual studio 2017\Projects\shasqi\shasqi\obj\Debug\shasqi.Form1.resources
+c:\users\p102\documents\visual studio 2017\Projects\shasqi\shasqi\obj\Debug\shasqi.Properties.Resources.resources
+c:\users\p102\documents\visual studio 2017\Projects\shasqi\shasqi\obj\Debug\shasqi.csproj.GenerateResource.Cache
+c:\users\p102\documents\visual studio 2017\Projects\shasqi\shasqi\obj\Debug\shasqi.exe
+c:\users\p102\documents\visual studio 2017\Projects\shasqi\shasqi\obj\Debug\shasqi.pdb
